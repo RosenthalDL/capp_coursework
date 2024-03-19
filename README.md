@@ -2,6 +2,12 @@
 For academic integrity and intellectual property purposes, my code for the following assignments is only available upon request. Please send me an email at drosenthal@uchicago.edu if you would like access to the private repositories with my code.
 
 ## CAPP 30121: Computer Science with Applications I
+- Modeling Epidemics
+- Schelling’s Model of Housing Segregation
+- Analyzing Candidate Tweets
+- Modeling Polling Places
+- Visualizing Avian Biodiversity Using Treemaps
+- Airline Service Quality Performance (ASQP)
 
 ## CAPP 30122: Computer Science with Applications II
 - Markovian Candidate
